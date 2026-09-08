@@ -20,7 +20,7 @@ Install and load the necessary libraries before running the code:
 * `rattle`: Source for the 13-attribute chemical wine dataset.
 * `ggplot2`: Core visualization framework.
 * `dplyr`: Data manipulation workflows.
-* `car`: Exact mathematical calculation of 95% confidence ellipses via ellipse().
+* `car`: Exact mathematical calculation of 95% confidence ellipses via `ellipse()`.
 
 ---
 
