@@ -32,3 +32,7 @@ Executing the provided script generates four high-resolution (300 DPI) images co
 * wine_pca_stage2.png
 * wine_pca_stage3.png
 * wine_pca_stage4.png
+
+---
+
+If you have any questions or suggestions, contact us at info@biomatika.lt.
