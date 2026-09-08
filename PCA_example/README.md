@@ -17,7 +17,7 @@ The code demonstrates how to run a PCA on the classic `wine` dataset and progres
 
 Install and load the necessary libraries before running the code:
 
-* `rattle`: Source for the 13-attribute chemical wine dataset.
+* `rattle`: Source for the wine dataset containing 13 different chemical measurements.
 * `ggplot2`: Core visualization framework.
 * `dplyr`: Data manipulation workflows.
 * `car`: Exact mathematical calculation of 95% confidence ellipses via `ellipse()`.
